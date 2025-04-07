@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1920x1080
+http://175.31.21.146:4480/hls/13/index.m3u8
+
+http://219.159.194.199:8181/tsfile/live/0012_1.m3u8
+
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+
+http://42.48.17.204:808/hls/13/index.m3u8

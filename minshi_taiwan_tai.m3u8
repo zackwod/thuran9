@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1920x1080
+http://37.27.111.214:8080/live/5/hls.m3u8
+https://test.zapi.us.kg/?id=ftv-tw
+
+https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
+http://extraott.com:80/live/7175313183/6473142259/5528.m3u8
