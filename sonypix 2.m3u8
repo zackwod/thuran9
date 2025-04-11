@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://opplex.tv:8080/live/starmpk/mpk1234/109966.m3u8
-http://xtv.ooo:8080/live/starmpk/mpk1234/109966.m3u8
+
+http://opplex.tv:8080/live/Raza335/3355141450/109966.m3u8
+http://xtv.ooo:8080/live/Raza335/3355141450/109966.m3u8
