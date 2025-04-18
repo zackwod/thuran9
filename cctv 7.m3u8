@@ -1,9 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 
-http://175.31.21.146:4480/hls/8/index.m3u8
-http://219.159.194.199:8181/tsfile/live/0007_1.m3u8
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
-http://video.qd.sdu.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/index.m3u8
-
-http://42.48.17.204:808/hls/8/index.m3u8
