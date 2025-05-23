@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 
+http://mantul.biz.id:8888/live/00nud58/250425/89.m3u8
+http://mantul.biz.id:8888/live/00nud58/250425/1029.m3u8
+
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37375.m3u8
@@ -18,6 +21,5 @@ http://filex.tv:8080/live/technolgy52973/856k2R8zxwVj/302227.m3u8
 
 
 
-http://mantul.biz.id:8888/live/00nud58/250425/89.m3u8
-http://mantul.biz.id:8888/live/00nud58/250425/1029.m3u8
+
 
